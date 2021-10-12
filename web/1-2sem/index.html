@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forma_to_fill_in</title>
+    <link rel="stylesheet" href="Script.css">
+</head>
+<body>
+  <form id="Forma_to_fill_in" action="http://localhost:3000" method="POST">
+<h1>ПОДАТЬ ОБРАЩЕНИЕ</h1>
+
+<fieldset>
+    <p>Здесь вы можете подать обращение в префектуру округа</p>
+</fieldset>
+<fieldset>
+    <legend>Антропоним</legend>
+    <label for="name">Имя <em>*</em></label>
+    <input id="name" name="name" placeholder="Иван" required="" type="text"><br>
+    <label for="name">Фамилия <em>*</em></label>
+    <input id="surname" name="surname" placeholder="Иванов" required="" type="text"><br>
+    <label for="name">Отчество </label>
+    <input id="patronymic" name="patronymic" placeholder="Иванович" type="text"><br>
+</fieldset>
+    
+
+
+    
+    
+
+<fieldset>
+    <legend>Контактная информация</legend>
+    <label for="country">Страна<em>*</em></label>
+    <input id="country" name="country" placeholder="Россия" type="text" required=""> 
+    <label for="region">Регион<em>*</em></label>
+    <input id="region" name="region" placeholder="Московская область" type="text" required="">  
+    <label for="index">Индекс<em>*</em></label>
+    <input id="index" name="index" placeholder="343980" type="number" required="">
+    <label for="city">Населенный пункт<em>*</em></label>
+    <input id="city" name="city" placeholder="Балашиха" type="text" required="">   
+    <label for="street">Улица<em>*</em></label>
+    <input id="street" name="street" placeholder="Мира" type="text" required="">
+    <label for="house">Дом<em>*</em></label>
+    <input id="house" name="house" placeholder="234" type="number" required="">
+    <label for="block">Корпус</label>
+    <input id="block" name="block"placeholder="если есть корпус или дробь" type="number">
+    <label for="flat">Квартира<em>*</em></label>
+    <input id="flat" name="flat" placeholder="56" type="number" required="">
+    <label for="mail">"Электронная почта"<em>*</em> </label>
+    <input id="email" name="email" placeholder="name@server.com" type="text" required=""><br>
+    <label for="phone">Номер телефона <em>*</em></label>
+    <input id="phone" name="phone" placeholder="+71234567890" type="text" required=""><br>
+
+</fieldset>
+<fieldset>
+    <p><b>Уведомлять о результатах работы с обращением по</b></p>
+    <p><input name="types of links" type="radio" value="email">email</p>
+    <p><input name="types of links" type="radio" value="phone">SMS</p>
+    <p><input name="types of links" type="radio" value="mail">почте</p>
+</fieldset>
+<fieldset>
+    <p><input type="checkbox" name="appeal" value="appeal"> Я уже подавал обращения ранее</p>
+</fieldset> 
+
+<fieldset>
+    <label for="social status">Социальное положение</label>
+    <select name="social status" id="social status">
+            <option value="public servant">Служащий</option>
+            <option value="worker">Рабочий</option>
+            <option value="retiree">Пенсионер</option>
+            <option value="unemployed">Безработный</option>
+            <option value="homemaker">Домохозяйка</option>
+            <option value="head">Руководитель</option>
+            <option value="expert">Специалист</option>
+            <option value="student">Студент, учащийся</option>
+    </select>
+
+    <label for="social status">Категория льгот</label>
+    <select name="social status" id="social status">
+            <option value="war invalid">Инвалид или участник ВОВ</option>
+            <option value="veteran">Ветеран других войн</option>
+            <option value="family member">Член семьи умершего ветерана</option>
+            <option value="hero">Герой России или СССР</option>
+            <option value="hero_labour">Герой соцтруда</option>
+            <option value="injured person">Пострадавший в техногенной или радиационной катастрофе</option>
+            <option value="no">Льгот нет</option>
+    </select>
+
+</fieldset>
+
+<fieldset>
+    <p><b>Введите текст ващего обращения:</b></p>
+    <p><textarea name="comment"></textarea></p>
+    <input type="file" name="file"><p>Вы можете прикрепить документы или изображения если необходимо</p>
+    <p><input type="submit" value="Отправить обращение"></p>
+
+</fieldset>
+
+
+</form>  
+</body>
+</html>
