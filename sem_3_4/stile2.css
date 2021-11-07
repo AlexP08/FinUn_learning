@@ -1,0 +1,32 @@
+.card-header{
+    display: flex;
+}
+.text{
+    font-size: 16px;
+    position: relative;
+    left: -20px;
+}
+.marg{
+    margin: 30px;
+    margin-bottom: 30px;
+}
+.round{
+    border-radius: 100px; 
+    border: 3px solid rgb(167, 150, 103); 
+    box-shadow: 0 0 7px rgb(224, 224, 224);
+}
+.head{
+    text-align: end;
+}
+.circle{
+    position: relative;
+    left: -29px;
+    background: #4be03d;
+  border-radius: 50%;
+  height: 3em;
+  width: 3em;
+}
+.card-body{border-left: 2px solid rgb(160, 172, 160);
+    height: wrap;
+    position: relative; right: -60px;
+}
