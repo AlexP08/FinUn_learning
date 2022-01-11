@@ -1,0 +1,296 @@
+23-Dec-21 19:28:15 - SERVER IS STARTING ON 80
+23-Dec-21 19:28:23 - CONNECTION WITH <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 64864)>
+23-Dec-21 19:28:23 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:28:23 - CONNECTION WITH <socket.socket fd=468, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 64865)>
+23-Dec-21 19:28:23 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:28:23 2021
+Server: Server v0.0.1
+Content-Length: 243
+Connection: close
+
+
+23-Dec-21 19:28:23 - CONNECTION WITH <socket.socket fd=492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 64866)>
+23-Dec-21 19:28:24 - favicon.ico - 127.0.0.1 - 200 OK
+23-Dec-21 19:28:24 - favicon.ico - 127.0.0.1 - 404 NOT FOUND
+23-Dec-21 19:28:24 - SENT RESPONSE HTTP/1.1 404 NOT FOUND
+Content-Type:image/x-icon
+Date: Thu Dec 23 19:28:24 2021
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+23-Dec-21 19:29:27 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:29:27 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:29:27 2021
+Server: Server v0.0.1
+Content-Length: 243
+Connection: close
+
+
+23-Dec-21 19:31:12 - SERVER IS STARTING ON 80
+23-Dec-21 19:31:50 - SERVER IS STARTING ON 80
+23-Dec-21 19:31:59 - CONNECTION WITH <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58606)>
+23-Dec-21 19:31:59 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:31:59 - CONNECTION WITH <socket.socket fd=496, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58607)>
+23-Dec-21 19:31:59 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:31:59 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 19:31:59 - CONNECTION WITH <socket.socket fd=516, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58608)>
+23-Dec-21 19:32:55 - pic.jpg - 127.0.0.1 - 200 OK
+23-Dec-21 19:32:55 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:image/jpeg
+Date: Thu Dec 23 19:32:55 2021
+Server: Server v0.0.1
+Content-Length: 376414
+Connection: close
+
+
+23-Dec-21 19:33:06 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:33:06 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:33:06 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 19:33:06 - CONNECTION WITH <socket.socket fd=556, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58699)>
+23-Dec-21 19:33:06 - settings.txt - 127.0.0.1 - 200 OK
+23-Dec-21 19:33:06 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/plain
+Date: Thu Dec 23 19:33:06 2021
+Server: Server v0.0.1
+Content-Length: 194
+Connection: close
+
+
+23-Dec-21 19:33:06 - CONNECTION WITH <socket.socket fd=356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58700)>
+23-Dec-21 19:33:06 - CONNECTION WITH <socket.socket fd=500, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58701)>
+23-Dec-21 19:34:50 - SERVER IS STARTING ON 80
+23-Dec-21 19:34:55 - CONNECTION WITH <socket.socket fd=484, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58816)>
+23-Dec-21 19:34:55 - settings.txt - 127.0.0.1 - 403 FORBIDDEN
+23-Dec-21 19:34:55 - SENT RESPONSE HTTP/1.1 403 FORBIDDEN
+Content-Type:
+Date: Thu Dec 23 19:34:55 2021
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+23-Dec-21 19:34:55 - CONNECTION WITH <socket.socket fd=492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58817)>
+23-Dec-21 19:34:56 - CONNECTION WITH <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58818)>
+23-Dec-21 19:37:10 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:37:10 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:37:10 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:37:10 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 19:37:10 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:37:10 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 19:37:10 - CONNECTION WITH <socket.socket fd=508, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58981)>
+23-Dec-21 19:37:10 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:37:10 - CONNECTION WITH <socket.socket fd=480, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58982)>
+23-Dec-21 19:37:10 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:37:10 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 19:37:10 - CONNECTION WITH <socket.socket fd=500, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 58983)>
+23-Dec-21 19:37:29 - pic.jpg - 127.0.0.1 - 200 OK
+23-Dec-21 19:37:29 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:image/jpeg
+Date: Thu Dec 23 19:37:29 2021
+Server: Server v0.0.1
+Content-Length: 376414
+Connection: close
+
+
+23-Dec-21 19:38:07 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:38:07 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:38:07 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 19:38:07 - CONNECTION WITH <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59064)>
+23-Dec-21 19:38:07 - CONNECTION WITH <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59065)>
+23-Dec-21 19:38:27 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:38:27 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:38:27 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 19:40:10 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:40:10 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:40:10 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 19:40:54 - CONNECTION WITH <socket.socket fd=148, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59234)>
+23-Dec-21 19:40:54 - settings.txt - 127.0.0.1 - 403 FORBIDDEN
+23-Dec-21 19:40:54 - SENT RESPONSE HTTP/1.1 403 FORBIDDEN
+Content-Type:
+Date: Thu Dec 23 19:40:54 2021
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+23-Dec-21 19:40:54 - CONNECTION WITH <socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59235)>
+23-Dec-21 19:40:54 - CONNECTION WITH <socket.socket fd=484, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59236)>
+23-Dec-21 19:42:44 - SERVER IS STARTING ON 80
+23-Dec-21 19:42:52 - CONNECTION WITH <socket.socket fd=496, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59348)>
+23-Dec-21 19:42:52 - CONNECTION WITH <socket.socket fd=504, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59349)>
+23-Dec-21 19:42:53 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:42:53 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:42:53 2021
+Server: Server v0.0.1
+Content-Length: 463
+Connection: close
+
+
+23-Dec-21 19:43:28 - SERVER IS STARTING ON 80
+23-Dec-21 19:43:43 - CONNECTION WITH <socket.socket fd=476, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59404)>
+23-Dec-21 19:43:43 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:43:43 - CONNECTION WITH <socket.socket fd=484, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59405)>
+23-Dec-21 19:43:43 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:43:43 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 19:43:43 - CONNECTION WITH <socket.socket fd=520, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 59406)>
+23-Dec-21 19:44:45 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:44:45 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 19:44:45 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:44:45 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 19:44:45 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 19:44:45 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 20:42:14 - SERVER IS STARTING ON 80
+23-Dec-21 20:42:34 - CONNECTION WITH <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63126)>
+23-Dec-21 20:42:34 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 20:42:34 - CONNECTION WITH <socket.socket fd=484, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63127)>
+23-Dec-21 20:42:34 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 20:42:34 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 20:42:34 - CONNECTION WITH <socket.socket fd=132, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63128)>
+23-Dec-21 20:43:19 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 20:43:19 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 20:43:19 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 20:43:19 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 20:43:19 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 20:43:19 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 20:45:21 - CONNECTION WITH <socket.socket fd=548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63135)>
+23-Dec-21 20:45:21 - pic.jpg - 127.0.0.1 - 200 OK
+23-Dec-21 20:45:21 - CONNECTION WITH <socket.socket fd=140, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63136)>
+23-Dec-21 20:45:21 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:image/jpeg
+Date: Thu Dec 23 20:45:21 2021
+Server: Server v0.0.1
+Content-Length: 376414
+Connection: close
+
+
+23-Dec-21 20:45:21 - CONNECTION WITH <socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63137)>
+23-Dec-21 20:45:30 - settings.txt - 127.0.0.1 - 200 OK
+23-Dec-21 20:45:30 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/plain
+Date: Thu Dec 23 20:45:30 2021
+Server: Server v0.0.1
+Content-Length: 188
+Connection: close
+
+
+23-Dec-21 20:45:30 - CONNECTION WITH <socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63139)>
+23-Dec-21 20:46:22 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 20:46:22 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 20:46:22 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 20:46:31 - index.html - 127.0.0.1 - 200 OK
+23-Dec-21 20:46:31 - SENT RESPONSE HTTP/1.1 200 OK
+Content-Type:text/html
+Date: Thu Dec 23 20:46:31 2021
+Server: Server v0.0.1
+Content-Length: 460
+Connection: close
+
+
+23-Dec-21 20:47:06 - SERVER IS STARTING ON 80
+23-Dec-21 20:47:11 - CONNECTION WITH <socket.socket fd=476, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63145)>
+23-Dec-21 20:47:11 - settings.txt - 127.0.0.1 - 403 FORBIDDEN
+23-Dec-21 20:47:11 - SENT RESPONSE HTTP/1.1 403 FORBIDDEN
+Content-Type:
+Date: Thu Dec 23 20:47:11 2021
+Server: Server v0.0.1
+Content-Length: 0
+Connection: close
+
+
+23-Dec-21 20:47:11 - CONNECTION WITH <socket.socket fd=484, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63146)>
+23-Dec-21 20:47:11 - CONNECTION WITH <socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 80), raddr=('127.0.0.1', 63147)>

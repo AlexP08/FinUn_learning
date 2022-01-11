@@ -1,0 +1,5 @@
+80
+C:\Users\user\Documents\FA_studies\Pract_Prog\web_server
+html jpeg png gif
+"js": "text/javascript", "jpg": "image/jpeg",
+                   "json": "text/json", "txt": "text/plain",
